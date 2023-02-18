@@ -11,7 +11,7 @@ other two send "Polo" right back before the program ends.
 
 This was suppose the help me get a feel for Peer to Peer networking, and maybe help me learn to use python better.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/6-pYIdTmGZQ)
 
 # Network Communication
 
